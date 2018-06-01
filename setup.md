@@ -5,20 +5,11 @@ permalink: /setup/
 contact: ADD CONTACT EMAIL
 ---
 ### Requirements:
-For this lesson you will need to have Python 3 installation.
-Please go through all the installation steps below and make sure that
-you not only installed them, but start them up to make sure they're working.
+For this lesson you will need to have Python 3 installation. Please download it from [anaconda.com/download](https://www.anaconda.com/download/),
+follow the installation steps **and** make sure to **check "Make Anaconda the default Python**. 
+Afterwards, please start them up to make sure they're working.
 If you have any problems, don't hesitate to email the instructors to
 ask for help, or arrive early on the first day of the workshop to
 get help.
 
-Please see the section for your operating system for those directions.
- - [Windows](#windows)
- - [Mac](#mac)
- - [Linux](#linux)
-
-{% include windows.html %}
-
-{% include mac.html %}
-
-{% include linux.html %}
+You can also watch video tutorials for [macOS](https://youtu.be/TcSAln46u9U) and [Windows](https://www.youtube.com/watch?v=xxQ0mzZ8UvA).
